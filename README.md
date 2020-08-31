@@ -97,13 +97,11 @@ O modelo de Aluno deverá conter (mas não limitado a):
 
 Você pode enviar de duas maneiras:
 
-1°
-- Fazer um fork deste repositório
-- Programar para atender os requisitos
-- Fazer um merge request quando finalizar. É importante que conste no merge request as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).
+1° - Fazer um fork deste repositório, programar para atender os requisitos e fazer um merge request quando finalizar. 
 
-2° 
-Criar um repositório público, desenvolver o projeto e enviar o link do resultado para esse e-mail **vinicius.gusmao@salesiano.br**.
+2° - Criar um repositório público, desenvolver o projeto e enviar o link do resultado para esse e-mail **vinicius.gusmao@salesiano.br**.
+
+É importante que conste no projeto as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).
 
 ## Considerações Finais
 A intenção com este projeto é que o candidato seja capaz de desenvolver um sistema do zero, considerando a modelagem no banco de dados, criação de uma área autenticada, CRUD no banco de dados e consultas específicas para listagem das informações no frontend.
