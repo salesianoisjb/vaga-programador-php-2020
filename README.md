@@ -98,9 +98,11 @@ O modelo de Aluno deverá conter (mas não limitado a):
 
 Você pode enviar de duas maneiras:
 
-1° - Fazer um fork deste repositório, programar para atender os requisitos e fazer um merge request quando finalizar. 
+Fazer um fork deste repositório, programar para atender os requisitos e fazer um merge request quando finalizar. 
 
-2° - Criar um repositório público, desenvolver o projeto e enviar o link do resultado para esse e-mail **vinicius.gusmao@salesiano.br**.
+ou
+
+Criar um repositório público, desenvolver o projeto e enviar o link do resultado para esse e-mail **vinicius.gusmao@salesiano.br**.
 
 É importante que conste no projeto as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).
 
