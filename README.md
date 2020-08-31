@@ -93,5 +93,14 @@ O modelo de Aluno deverá conter (mas não limitado a):
 - Conhecimento de libs como Jquery ou React para o frontend em JS.
 - Conhecimento do framework React Native para desenvolvimento de aplicativos móveis.
 
+## Procedimentos após a conclusão do teste
+
+Você pode:
+- Fazer um fork deste repositório
+- Programar para atender os requisitos
+- Fazer um merge request quando finalizar. É importante que conste no merge request as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).
+
+ou simplesmente criar um repositório público, desenvolver o projeto e compartilhar o link do resultado comigo, no e-mail **vinicius.gusmao@salesiano.br**.
+
 ## Considerações Finais
 A intenção com este projeto é que o candidato seja capaz de desenvolver um sistema do zero, considerando a modelagem no banco de dados, criação de uma área autenticada, CRUD no banco de dados e consultas específicas para listagem de dados no frontend.
