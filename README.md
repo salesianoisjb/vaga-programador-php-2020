@@ -23,6 +23,10 @@ Uma semana.
 ## Importante
 Tudo que for desenvolvido não será utilizado comercialmente e a única intenção é de avaliar o conhecimento atual do candidato.
 
+## Requisitos
+- Usar o Laravel
+- Usar banco de dados Mysql
+
 ## Qual é o teste ?
 Construir uma aplicação que gerencie as informações de uma escola.
 
@@ -83,3 +87,11 @@ O modelo de Aluno deverá conter (mas não limitado a):
 - Data de nascimento
 - E-mail
 - Status (ativo ou inativo)
+
+## Conhecimentos desejáveis, mas não essenciais
+- Conhecimento no framework web Bootstrap para desenvolvimento dos componentes de interface.
+- Conhecimento de libs como Jquery ou React para o frontend em JS.
+- Conhecimento do framework React Native para desenvolvimento de aplicativos móveis.
+
+## Considerações Finais
+A intenção com este projeto é que o candidato seja capaz de desenvolver um sistema do zero, considerando a modelagem no banco de dados, criação de uma área autenticada, CRUD no banco de dados e consultas específicas para listagem de dados no frontend.
