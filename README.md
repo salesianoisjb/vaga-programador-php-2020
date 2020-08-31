@@ -104,7 +104,7 @@ ou
 
 Criar um repositório público, desenvolver o projeto e enviar o link do resultado para esse e-mail **vinicius.gusmao@salesiano.br**.
 
-É importante que conste no projeto as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).
+*É importante que conste no projeto as instruções para executar a aplicação desenvolvida (preferencialmente usando markdown).*
 
 ## Considerações Finais
 A intenção com este projeto é que o candidato seja capaz de desenvolver um sistema do zero, considerando a modelagem no banco de dados, criação de uma área autenticada, CRUD no banco de dados e consultas específicas para listagem das informações no frontend.
