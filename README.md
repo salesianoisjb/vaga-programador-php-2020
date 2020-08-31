@@ -15,6 +15,7 @@ O objetivo deste teste é conhecer as habilidades do candidato em:
 - Capricho (atenção com urls, metatags, validações, modelagem, nomenclatura, ...)
 
 Fora do que foi definido de ferramentas e tecnologias acima, sinta-se livre para usar qualquer pacote adicional que encontre necessidade.
+
 **Tente realizar todos os itens, porém, mesmo que não termine, me envie no prazo o que você conseguiu realizar.**
 
 Qualquer dúvida, estarei disponível para contato no e-mail vinicius.gusmao@salesiano.br.
