@@ -1,5 +1,7 @@
 # Vaga programador PHP - 2020 - Inspetoria São João Bosco
 
+> Tudo que for desenvolvido não será utilizado comercialmente e a única intenção é de avaliar o conhecimento atual do candidato
+
 ## Observações Gerais
 
 O objetivo deste teste é conhecer as habilidades do candidato em:
@@ -19,9 +21,6 @@ Qualquer dúvida, estarei disponível para contato no e-mail vinicius.gusmao@sal
 
 ## Prazo
 Uma semana.
-
-## Importante
-Tudo que for desenvolvido não será utilizado comercialmente e a única intenção é de avaliar o conhecimento atual do candidato.
 
 ## Requisitos
 - Usar o Laravel
