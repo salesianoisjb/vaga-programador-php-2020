@@ -55,6 +55,7 @@ O modelo do Usuário deverá conter (mas não limitado a):
 - Nome
 - E-mail
 - Senha
+
 *Não é necessário fazer o CRUD de Usuário. O cadastro do primeiro usuário deve ser feito utilizando Seeds e o cadastro de outros usuários pode ser manual dentro do banco de dados.*
 
 O modelo da Escola deverá conter (mas não limitado a):
@@ -63,6 +64,7 @@ O modelo da Escola deverá conter (mas não limitado a):
 - Telefone
 - Cidade
 - Estado
+
 *Não é necessário fazer o CRUD de Escola. O cadastro da primeira escola deve ser feito utilizando Seeds ou manualmente dentro do banco de dados.*
 
 O modelo de Curso deverá conter (mas não limitado a):
