@@ -28,7 +28,7 @@ Uma semana.
 - Usar banco de dados Mysql
 
 ## Qual é o teste ?
-Construir uma aplicação que gerencie as informações de uma escola.
+Construir uma aplicação para listar informações básicas de uma escola (cursos, séries, turmas e alunos).
 
 ## O que deve ser feito ?
 As seguintes funcionalidades deverão ser implementadas:
